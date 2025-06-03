@@ -1862,6 +1862,6 @@ body.is-preload #footer {
 }
 
 .certificate > img {
-    transform: rotate(-10deg) scale(90%);
+    transform: rotate(-10deg) scale(95%) translateY(-25px);
     margin: auto;
 }
